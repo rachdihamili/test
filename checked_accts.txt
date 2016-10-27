@@ -1,0 +1,80 @@
+51118-  POS solution
+51131-  phase 5
+51648-  POS solution
+51769-  phase 5
+51920-  POS 
+52024-  phase 5
+
+52403- inactive
+52494- phase 5
+52640- POS
+52947- phase 5
+53158-
+53428- phase 5
+53451- inactive POS
+53619- phase 5
+53647- phase 5
+54399- POS 
+
+54729- phase 5
+54828- phase 5
+54969- index.php
+55386- POS inactive 
+55607- working
+55732- working
+55897- phase 5
+56239- phase 5
+56276- phase 5
+56343- POS solution
+56597- phase 5
+56598- phase 5
+56633- POS solution
+56636- in test mode
+56749- phase 5
+59362- phase 5
+59476- fixed
+59481- phase 5
+59499- phase 5
+59576- test account
+59764- phase 5
+59804- inactive
+59863- phase 5
+59901- phase 5
+60067- inactive
+60095- phase 5
+60154- phase 5
+60201- phase 5
+60203- phase 5
+60319- phase 5
+60383- phase 5
+60438- fixed
+60439- fixed
+60456- fixed
+60518- mailjet
+60523- working
+60606- phase 5
+60657- phase 5
+60787 -phase 5
+60790- phase 5
+60804-phase 5
+60889- fixed
+60890- phase 5
+60897- phase 5
+60919- working
+60925- working
+60936- fixed
+60937- fixed
+60960- phase 5
+60967- phase 5 
+60986- phase 5
+60990- phase 5
+60992- phase 5
+60994-phase 5
+61021- working
+61095- phase 5
+61113- phase 5
+61137- phase 5
+61141- phase 5
+61161- phase 5
+61174- phase 5
+61240- phase 5
